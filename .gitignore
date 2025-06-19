@@ -3,6 +3,6 @@ node_modules/
 .idea/
 
 # Allure and test reports
-allure-report/
-allure-results/
-screenshots/
+# allure-report/
+# allure-results/
+# screenshots/
