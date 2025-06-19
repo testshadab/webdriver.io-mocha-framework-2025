@@ -56,5 +56,5 @@ After test execution:
 npx allure generate allure-results --clean -o allure-report
 npx allure open allure-report
 
-## 📸 Screenshots on Failure
+## Screenshots on Failure
 Screenshots are saved under /screenshots folder on test failures and automatically attached to the Allure report.
